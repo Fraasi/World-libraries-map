@@ -7,4 +7,4 @@ Data from [oclc.org](https://www.oclc.org/en/global-library-statistics.html)
 *note: The data is in some cases quite old and in some others collected from unreliable sources.  
 You can read more about that in the oclc website.
 
-Live [here](https://fraasi.github.io/World-library-info-map/)
+Live [here](https://fraasi.github.io/World-libraries-map/)
