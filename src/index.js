@@ -93,7 +93,7 @@ info.update = function (props) {
 			Publishers: ${Publishers === 0 ? 'N/A' : Publishers.toLocaleString()}</br>
 			Museums: ${Museums === 0 ? 'N/A' : Museums.toLocaleString()}</br> 
 			Population: ${Population.toLocaleString()}</br>
-			Libraries per 100000: ${PerCapita}`
+			Libraries per 100 000: ${PerCapita}`
 		}
 	}
 }
@@ -105,7 +105,7 @@ const legend = L.control({ position: 'bottomright' })
 legend.onAdd = function () {
 	const div = L.DomUtil.create('div', 'info legend')
 	const grades = [0, 15, 30, 50, 70, 80, 90, 100]
-	div.innerHTML += '<span class="lib">#libraries per 100000</span></br>'
+	div.innerHTML += '<span class="lib">#libraries per 100 000</span></br>'
 	for (let i = 0; i < grades.length; i++) {
 		div.innerHTML
 			+= `<i style="background:${getColor(grades[i] + 1)}"></i> ${
