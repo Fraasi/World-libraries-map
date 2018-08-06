@@ -9,7 +9,8 @@
     "Libraries": 150,
     "Users": 48133,
     "Volumes": 325300,
-    "Population": 34169169
+    "Population": 34169169,
+    "PerCapita": 0.4
   },
   {
     "Name": "Åland Islands",
@@ -20,7 +21,8 @@
     "Libraries": 2,
     "Users": 0,
     "Volumes": 382300,
-    "Population": "N/A"
+    "Population": "N/A",
+    "PerCapita": "N/A"
   },
   {
     "Name": "Albania",
@@ -31,7 +33,8 @@
     "Libraries": 2107,
     "Users": 575821,
     "Volumes": 11449683,
-    "Population": 2911428
+    "Population": 2911428,
+    "PerCapita": 72.4
   },
   {
     "Name": "Algeria",
@@ -42,7 +45,8 @@
     "Libraries": 760,
     "Users": 715,
     "Volumes": 2436918,
-    "Population": 41063753
+    "Population": 41063753,
+    "PerCapita": 1.9
   },
   {
     "Name": "American Samoa",
@@ -53,7 +57,8 @@
     "Libraries": 32,
     "Users": 0,
     "Volumes": 140009,
-    "Population": "N/A"
+    "Population": "N/A",
+    "PerCapita": "N/A"
   },
   {
     "Name": "Andorra",
@@ -64,7 +69,8 @@
     "Libraries": 39,
     "Users": 15769,
     "Volumes": 222869,
-    "Population": 68728
+    "Population": 68728,
+    "PerCapita": 56.7
   },
   {
     "Name": "Angola",
@@ -75,7 +81,8 @@
     "Libraries": 62,
     "Users": 0,
     "Volumes": 197470,
-    "Population": 26655513
+    "Population": 26655513,
+    "PerCapita": 0.2
   },
   {
     "Name": "Anguilla",
@@ -86,7 +93,8 @@
     "Libraries": 1,
     "Users": 0,
     "Volumes": 14000,
-    "Population": "N/A"
+    "Population": "N/A",
+    "PerCapita": "N/A"
   },
   {
     "Name": "Antigua and Barbuda",
@@ -97,7 +105,8 @@
     "Libraries": 8,
     "Users": 0,
     "Volumes": 0,
-    "Population": 93659
+    "Population": 93659,
+    "PerCapita": 8.5
   },
   {
     "Name": "Argentina",
@@ -108,7 +117,8 @@
     "Libraries": 2537,
     "Users": 720538,
     "Volumes": 22340845,
-    "Population": 44272125
+    "Population": 44272125,
+    "PerCapita": 5.7
   },
   {
     "Name": "Armenia",
@@ -119,7 +129,8 @@
     "Libraries": 2555,
     "Users": 11527282,
     "Volumes": 25610507,
-    "Population": 3031670
+    "Population": 3031670,
+    "PerCapita": 84.3
   },
   {
     "Name": "Aruba",
@@ -130,7 +141,8 @@
     "Libraries": 34,
     "Users": 0,
     "Volumes": 250000,
-    "Population": "N/A"
+    "Population": "N/A",
+    "PerCapita": "N/A"
   },
   {
     "Name": "Australia",
@@ -141,7 +153,8 @@
     "Libraries": 11052,
     "Users": 14418740,
     "Volumes": 84155985,
-    "Population": 24641662
+    "Population": 24641662,
+    "PerCapita": 44.9
   },
   {
     "Name": "Austria",
@@ -152,7 +165,8 @@
     "Libraries": 2695,
     "Users": 1530974,
     "Volumes": 37975704,
-    "Population": 8592400
+    "Population": 8592400,
+    "PerCapita": 31.4
   },
   {
     "Name": "Azerbaijan",
@@ -163,7 +177,8 @@
     "Libraries": 4432,
     "Users": 153595,
     "Volumes": 54346241,
-    "Population": 9973697
+    "Population": 9973697,
+    "PerCapita": 44.4
   },
   {
     "Name": "Bahamas",
@@ -174,7 +189,8 @@
     "Libraries": 139,
     "Users": 3733,
     "Volumes": 126000,
-    "Population": 397164
+    "Population": 397164,
+    "PerCapita": 35
   },
   {
     "Name": "Bahrain",
@@ -185,7 +201,8 @@
     "Libraries": 209,
     "Users": 800300,
     "Volumes": 358700,
-    "Population": 1418895
+    "Population": 1418895,
+    "PerCapita": 14.7
   },
   {
     "Name": "Bangladesh",
@@ -196,7 +213,8 @@
     "Libraries": 217,
     "Users": 42800,
     "Volumes": 1916890,
-    "Population": 164827718
+    "Population": 164827718,
+    "PerCapita": 0.1
   },
   {
     "Name": "Barbados",
@@ -207,7 +225,8 @@
     "Libraries": 19,
     "Users": 372140,
     "Volumes": 387862,
-    "Population": 285744
+    "Population": 285744,
+    "PerCapita": 6.6
   },
   {
     "Name": "Belarus",
@@ -218,7 +237,8 @@
     "Libraries": 10173,
     "Users": 537716,
     "Volumes": 230024713,
-    "Population": 9458535
+    "Population": 9458535,
+    "PerCapita": 107.6
   },
   {
     "Name": "Belgium",
@@ -229,7 +249,8 @@
     "Libraries": 1242,
     "Users": 3372910,
     "Volumes": 46127256,
-    "Population": 11443830
+    "Population": 11443830,
+    "PerCapita": 10.9
   },
   {
     "Name": "Belize",
@@ -240,7 +261,8 @@
     "Libraries": 106,
     "Users": 88500,
     "Volumes": 391000,
-    "Population": 374651
+    "Population": 374651,
+    "PerCapita": 28.3
   },
   {
     "Name": "Benin",
@@ -251,7 +273,8 @@
     "Libraries": 125,
     "Users": 20952,
     "Volumes": 180200,
-    "Population": 11458611
+    "Population": 11458611,
+    "PerCapita": 1.1
   },
   {
     "Name": "Bermuda",
@@ -262,7 +285,8 @@
     "Libraries": 28,
     "Users": 92586,
     "Volumes": 357800,
-    "Population": "N/A"
+    "Population": "N/A",
+    "PerCapita": "N/A"
   },
   {
     "Name": "Bhutan",
@@ -273,7 +297,8 @@
     "Libraries": 515,
     "Users": 10650,
     "Volumes": 161000,
-    "Population": 792877
+    "Population": 792877,
+    "PerCapita": 65
   },
   {
     "Name": "Bolivia",
@@ -284,7 +309,8 @@
     "Libraries": 549,
     "Users": 1175461,
     "Volumes": 1053530,
-    "Population": 11052864
+    "Population": 11052864,
+    "PerCapita": 5
   },
   {
     "Name": "Bosnia and Herzegovina",
@@ -295,7 +321,8 @@
     "Libraries": 350,
     "Users": 173952,
     "Volumes": 646000,
-    "Population": 3792759
+    "Population": 3792759,
+    "PerCapita": 9.2
   },
   {
     "Name": "Botswana",
@@ -306,7 +333,8 @@
     "Libraries": 350,
     "Users": 997795,
     "Volumes": 941538,
-    "Population": 2343981
+    "Population": 2343981,
+    "PerCapita": 14.9
   },
   {
     "Name": "Brazil",
@@ -317,7 +345,8 @@
     "Libraries": 22544,
     "Users": 21310249,
     "Volumes": 32622026,
-    "Population": 211243220
+    "Population": 211243220,
+    "PerCapita": 10.7
   },
   {
     "Name": "Brunei Darussalam",
@@ -328,7 +357,8 @@
     "Libraries": 40,
     "Users": 40243,
     "Volumes": 1407400,
-    "Population": "N/A"
+    "Population": "N/A",
+    "PerCapita": "N/A"
   },
   {
     "Name": "Bulgaria",
@@ -339,7 +369,8 @@
     "Libraries": 4374,
     "Users": 1825150,
     "Volumes": 32780023,
-    "Population": 7045259
+    "Population": 7045259,
+    "PerCapita": 62.1
   },
   {
     "Name": "Burkina Faso",
@@ -350,7 +381,8 @@
     "Libraries": 243,
     "Users": 98,
     "Volumes": 107672,
-    "Population": 19173322
+    "Population": 19173322,
+    "PerCapita": 1.3
   },
   {
     "Name": "Burundi",
@@ -361,7 +393,8 @@
     "Libraries": 21,
     "Users": 26000,
     "Volumes": 192000,
-    "Population": 11936481
+    "Population": 11936481,
+    "PerCapita": 0.2
   },
   {
     "Name": "Cambodia",
@@ -372,7 +405,8 @@
     "Libraries": 2109,
     "Users": 0,
     "Volumes": 148839,
-    "Population": 16076370
+    "Population": 16076370,
+    "PerCapita": 13.1
   },
   {
     "Name": "Cameroon",
@@ -383,7 +417,8 @@
     "Libraries": 109,
     "Users": 1700400,
     "Volumes": 370771,
-    "Population": 24513689
+    "Population": 24513689,
+    "PerCapita": 0.4
   },
   {
     "Name": "Canada",
@@ -394,7 +429,8 @@
     "Libraries": 20976,
     "Users": 36283289,
     "Volumes": 160766244,
-    "Population": 36626083
+    "Population": 36626083,
+    "PerCapita": 57.3
   },
   {
     "Name": "Cape Verde",
@@ -405,7 +441,8 @@
     "Libraries": 77,
     "Users": 0,
     "Volumes": 667600,
-    "Population": "N/A"
+    "Population": "N/A",
+    "PerCapita": "N/A"
   },
   {
     "Name": "Cayman Islands",
@@ -416,7 +453,8 @@
     "Libraries": 4,
     "Users": 284,
     "Volumes": 25000,
-    "Population": "N/A"
+    "Population": "N/A",
+    "PerCapita": "N/A"
   },
   {
     "Name": "Central African Republic",
@@ -427,7 +465,8 @@
     "Libraries": 5,
     "Users": 1500,
     "Volumes": 29740,
-    "Population": 5098826
+    "Population": 5098826,
+    "PerCapita": 0.1
   },
   {
     "Name": "Chad",
@@ -438,7 +477,8 @@
     "Libraries": 52,
     "Users": 600,
     "Volumes": 38747,
-    "Population": 14965482
+    "Population": 14965482,
+    "PerCapita": 0.3
   },
   {
     "Name": "Channel Islands",
@@ -449,7 +489,8 @@
     "Libraries": 11,
     "Users": 0,
     "Volumes": 0,
-    "Population": "N/A"
+    "Population": "N/A",
+    "PerCapita": "N/A"
   },
   {
     "Name": "Chile",
@@ -460,7 +501,8 @@
     "Libraries": 7717,
     "Users": 154462,
     "Volumes": 8536745,
-    "Population": 18313495
+    "Population": 18313495,
+    "PerCapita": 42.1
   },
   {
     "Name": "China",
@@ -471,7 +513,8 @@
     "Libraries": 109673,
     "Users": 15160109,
     "Volumes": 615463194,
-    "Population": 1388232693
+    "Population": 1388232693,
+    "PerCapita": 7.9
   },
   {
     "Name": "Colombia",
@@ -482,7 +525,8 @@
     "Libraries": 1948,
     "Users": 5064,
     "Volumes": 2450414,
-    "Population": 49067981
+    "Population": 49067981,
+    "PerCapita": 4
   },
   {
     "Name": "Comoros",
@@ -493,7 +537,8 @@
     "Libraries": 3,
     "Users": 0,
     "Volumes": 0,
-    "Population": 825920
+    "Population": 825920,
+    "PerCapita": 0.4
   },
   {
     "Name": "Democratic Republic of the Congo",
@@ -504,7 +549,8 @@
     "Libraries": 141,
     "Users": 9238,
     "Volumes": 1960430,
-    "Population": 82242685
+    "Population": 82242685,
+    "PerCapita": 0.2
   },
   {
     "Name": "Republic of the Congo",
@@ -515,7 +561,8 @@
     "Libraries": 77,
     "Users": 36252,
     "Volumes": 119260,
-    "Population": 4866243
+    "Population": 4866243,
+    "PerCapita": 1.6
   },
   {
     "Name": "Cook Islands",
@@ -526,7 +573,8 @@
     "Libraries": 11,
     "Users": 0,
     "Volumes": 22000,
-    "Population": "N/A"
+    "Population": "N/A",
+    "PerCapita": "N/A"
   },
   {
     "Name": "Costa Rica",
@@ -537,7 +585,8 @@
     "Libraries": 619,
     "Users": 629934,
     "Volumes": 12658849,
-    "Population": 4905626
+    "Population": 4905626,
+    "PerCapita": 12.6
   },
   {
     "Name": "Côte d'Ivoire",
@@ -548,7 +597,8 @@
     "Libraries": 122,
     "Users": 0,
     "Volumes": 373574,
-    "Population": 23815886
+    "Population": 23815886,
+    "PerCapita": 0.5
   },
   {
     "Name": "Croatia",
@@ -559,7 +609,8 @@
     "Libraries": 1550,
     "Users": 1663625,
     "Volumes": 17904447,
-    "Population": 4209815
+    "Population": 4209815,
+    "PerCapita": 36.8
   },
   {
     "Name": "Cuba",
@@ -570,7 +621,8 @@
     "Libraries": 5661,
     "Users": 5618566,
     "Volumes": 27631008,
-    "Population": 11390184
+    "Population": 11390184,
+    "PerCapita": 49.7
   },
   {
     "Name": "Curaçao",
@@ -581,7 +633,8 @@
     "Libraries": 10,
     "Users": 0,
     "Volumes": 680000,
-    "Population": "N/A"
+    "Population": "N/A",
+    "PerCapita": "N/A"
   },
   {
     "Name": "Cyprus",
@@ -592,7 +645,8 @@
     "Libraries": 300,
     "Users": 135577,
     "Volumes": 1374904,
-    "Population": 1187575
+    "Population": 1187575,
+    "PerCapita": 25.3
   },
   {
     "Name": "Czech Republic",
@@ -603,7 +657,8 @@
     "Libraries": 9671,
     "Users": 3371607,
     "Volumes": 117669609,
-    "Population": 10555130
+    "Population": 10555130,
+    "PerCapita": 91.6
   },
   {
     "Name": "Denmark",
@@ -614,7 +669,8 @@
     "Libraries": 2216,
     "Users": 2523004,
     "Volumes": 85606220,
-    "Population": 5711837
+    "Population": 5711837,
+    "PerCapita": 38.8
   },
   {
     "Name": "Djibouti",
@@ -625,7 +681,8 @@
     "Libraries": 3,
     "Users": 0,
     "Volumes": 21500,
-    "Population": 911382
+    "Population": 911382,
+    "PerCapita": 0.3
   },
   {
     "Name": "Dominica",
@@ -636,7 +693,8 @@
     "Libraries": 16,
     "Users": 9657,
     "Volumes": 65000,
-    "Population": 73353
+    "Population": 73353,
+    "PerCapita": 21.8
   },
   {
     "Name": "Dominican Republic",
@@ -647,7 +705,8 @@
     "Libraries": 554,
     "Users": 428675,
     "Volumes": 449806,
-    "Population": 10766564
+    "Population": 10766564,
+    "PerCapita": 5.1
   },
   {
     "Name": "Ecuador",
@@ -658,7 +717,8 @@
     "Libraries": 1661,
     "Users": 224747,
     "Volumes": 1083760,
-    "Population": 16625776
+    "Population": 16625776,
+    "PerCapita": 10
   },
   {
     "Name": "Egypt",
@@ -669,7 +729,8 @@
     "Libraries": 11049,
     "Users": 6408000,
     "Volumes": 15027700,
-    "Population": 95215102
+    "Population": 95215102,
+    "PerCapita": 11.6
   },
   {
     "Name": "El Salvador",
@@ -680,7 +741,8 @@
     "Libraries": 396,
     "Users": 115125,
     "Volumes": 567500,
-    "Population": 6167147
+    "Population": 6167147,
+    "PerCapita": 6.4
   },
   {
     "Name": "Equatorial Guinea",
@@ -691,7 +753,8 @@
     "Libraries": 11,
     "Users": 12450,
     "Volumes": 29100,
-    "Population": 894464
+    "Population": 894464,
+    "PerCapita": 1.2
   },
   {
     "Name": "Eritrea",
@@ -702,7 +765,8 @@
     "Libraries": 86,
     "Users": 0,
     "Volumes": 69350,
-    "Population": 5481906
+    "Population": 5481906,
+    "PerCapita": 1.6
   },
   {
     "Name": "Estonia",
@@ -713,7 +777,8 @@
     "Libraries": 977,
     "Users": 792777,
     "Volumes": 56229460,
-    "Population": 1305755
+    "Population": 1305755,
+    "PerCapita": 74.8
   },
   {
     "Name": "Ethiopia",
@@ -724,7 +789,8 @@
     "Libraries": 386,
     "Users": 24480,
     "Volumes": 841357,
-    "Population": 104344901
+    "Population": 104344901,
+    "PerCapita": 0.4
   },
   {
     "Name": "Falkland Islands",
@@ -735,7 +801,8 @@
     "Libraries": 2,
     "Users": 500,
     "Volumes": 17000,
-    "Population": "N/A"
+    "Population": "N/A",
+    "PerCapita": "N/A"
   },
   {
     "Name": "Faroe Islands",
@@ -746,7 +813,8 @@
     "Libraries": 2,
     "Users": 2800,
     "Volumes": 464200,
-    "Population": "N/A"
+    "Population": "N/A",
+    "PerCapita": "N/A"
   },
   {
     "Name": "Fiji",
@@ -757,7 +825,8 @@
     "Libraries": 417,
     "Users": 68200,
     "Volumes": 1673238,
-    "Population": 902547
+    "Population": 902547,
+    "PerCapita": 46.2
   },
   {
     "Name": "Finland",
@@ -768,7 +837,8 @@
     "Libraries": 6100,
     "Users": 3897095,
     "Volumes": 81558145,
-    "Population": 5541274
+    "Population": 5541274,
+    "PerCapita": 110.1
   },
   {
     "Name": "France",
@@ -779,7 +849,8 @@
     "Libraries": 5242,
     "Users": 11870122,
     "Volumes": 217920504,
-    "Population": 64938716
+    "Population": 64938716,
+    "PerCapita": 8.1
   },
   {
     "Name": "French Guiana",
@@ -790,7 +861,8 @@
     "Libraries": 5,
     "Users": 800,
     "Volumes": 45000,
-    "Population": "N/A"
+    "Population": "N/A",
+    "PerCapita": "N/A"
   },
   {
     "Name": "French Polynesia",
@@ -801,7 +873,8 @@
     "Libraries": 8,
     "Users": 0,
     "Volumes": 57732,
-    "Population": "N/A"
+    "Population": "N/A",
+    "PerCapita": "N/A"
   },
   {
     "Name": "Gabon",
@@ -812,7 +885,8 @@
     "Libraries": 85,
     "Users": 6034,
     "Volumes": 145300,
-    "Population": 1801232
+    "Population": 1801232,
+    "PerCapita": 4.7
   },
   {
     "Name": "Gambia",
@@ -823,7 +897,8 @@
     "Libraries": 119,
     "Users": 134430,
     "Volumes": 238300,
-    "Population": 2120418
+    "Population": 2120418,
+    "PerCapita": 5.6
   },
   {
     "Name": "Georgia",
@@ -834,7 +909,8 @@
     "Libraries": 2355,
     "Users": 2447000,
     "Volumes": 64964385,
-    "Population": 3972532
+    "Population": 3972532,
+    "PerCapita": 59.3
   },
   {
     "Name": "Germany",
@@ -845,7 +921,8 @@
     "Libraries": 12545,
     "Users": 11371384,
     "Volumes": 1413509362,
-    "Population": 80636124
+    "Population": 80636124,
+    "PerCapita": 15.6
   },
   {
     "Name": "Ghana",
@@ -856,7 +933,8 @@
     "Libraries": 7265,
     "Users": 87953,
     "Volumes": 4358511,
-    "Population": 28656723
+    "Population": 28656723,
+    "PerCapita": 25.4
   },
   {
     "Name": "Gibraltar",
@@ -867,7 +945,8 @@
     "Libraries": 98,
     "Users": 629923,
     "Volumes": 116000,
-    "Population": "N/A"
+    "Population": "N/A",
+    "PerCapita": "N/A"
   },
   {
     "Name": "Greece",
@@ -878,7 +957,8 @@
     "Libraries": 1284,
     "Users": 4034996,
     "Volumes": 16013927,
-    "Population": 10892931
+    "Population": 10892931,
+    "PerCapita": 11.8
   },
   {
     "Name": "Greenland",
@@ -889,7 +969,8 @@
     "Libraries": 43,
     "Users": 0,
     "Volumes": 582000,
-    "Population": 56000
+    "Population": 56000,
+    "PerCapita": 76.8
   },
   {
     "Name": "Grenada",
@@ -900,7 +981,8 @@
     "Libraries": 12,
     "Users": 1245,
     "Volumes": 60000,
-    "Population": 107850
+    "Population": 107850,
+    "PerCapita": 11.1
   },
   {
     "Name": "Guadeloupe",
@@ -911,7 +993,8 @@
     "Libraries": 7,
     "Users": 3600,
     "Volumes": 391700,
-    "Population": "N/A"
+    "Population": "N/A",
+    "PerCapita": "N/A"
   },
   {
     "Name": "Guam",
@@ -922,7 +1005,8 @@
     "Libraries": 12,
     "Users": 46283,
     "Volumes": 449241,
-    "Population": "N/A"
+    "Population": "N/A",
+    "PerCapita": "N/A"
   },
   {
     "Name": "Guatemala",
@@ -933,7 +1017,8 @@
     "Libraries": 88,
     "Users": 755600,
     "Volumes": 764800,
-    "Population": 17005497
+    "Population": 17005497,
+    "PerCapita": 0.5
   },
   {
     "Name": "Guinea",
@@ -944,7 +1029,8 @@
     "Libraries": 139,
     "Users": 9667,
     "Volumes": 635100,
-    "Population": 13290659
+    "Population": 13290659,
+    "PerCapita": 1
   },
   {
     "Name": "Guinea-Bissau",
@@ -955,7 +1041,8 @@
     "Libraries": 18,
     "Users": 200,
     "Volumes": 100000,
-    "Population": 1932871
+    "Population": 1932871,
+    "PerCapita": 0.9
   },
   {
     "Name": "Guyana",
@@ -966,7 +1053,8 @@
     "Libraries": 58,
     "Users": 605700,
     "Volumes": 479697,
-    "Population": 774407
+    "Population": 774407,
+    "PerCapita": 7.5
   },
   {
     "Name": "Haiti",
@@ -977,7 +1065,8 @@
     "Libraries": 98,
     "Users": 40000,
     "Volumes": 189616,
-    "Population": 10983274
+    "Population": 10983274,
+    "PerCapita": 0.9
   },
   {
     "Name": "Holy See (Vatican City)",
@@ -988,7 +1077,8 @@
     "Libraries": 23,
     "Users": 35526,
     "Volumes": 2050000,
-    "Population": "N/A"
+    "Population": "N/A",
+    "PerCapita": "N/A"
   },
   {
     "Name": "Honduras",
@@ -999,7 +1089,8 @@
     "Libraries": 511,
     "Users": 1902000,
     "Volumes": 451185,
-    "Population": 8304677
+    "Population": 8304677,
+    "PerCapita": 6.2
   },
   {
     "Name": "Hong Kong",
@@ -1010,7 +1101,8 @@
     "Libraries": 592,
     "Users": 2536365,
     "Volumes": 15459752,
-    "Population": 6782000
+    "Population": 6782000,
+    "PerCapita": 8.7
   },
   {
     "Name": "Hungary",
@@ -1021,7 +1113,8 @@
     "Libraries": 5477,
     "Users": 3367862,
     "Volumes": 60962313,
-    "Population": 9787905
+    "Population": 9787905,
+    "PerCapita": 56
   },
   {
     "Name": "Iceland",
@@ -1032,7 +1125,8 @@
     "Libraries": 226,
     "Users": 140574,
     "Volumes": 4182672,
-    "Population": 334303
+    "Population": 334303,
+    "PerCapita": 67.6
   },
   {
     "Name": "India",
@@ -1043,7 +1137,8 @@
     "Libraries": 337020,
     "Users": 550179,
     "Volumes": 123287001,
-    "Population": 1342512706
+    "Population": 1342512706,
+    "PerCapita": 25.1
   },
   {
     "Name": "Indonesia",
@@ -1054,7 +1149,8 @@
     "Libraries": 122906,
     "Users": 4194126,
     "Volumes": 4105388,
-    "Population": 263510146
+    "Population": 263510146,
+    "PerCapita": 46.6
   },
   {
     "Name": "Iran",
@@ -1065,7 +1161,8 @@
     "Libraries": 8679,
     "Users": 30465971,
     "Volumes": 36291288,
-    "Population": 80945718
+    "Population": 80945718,
+    "PerCapita": 10.7
   },
   {
     "Name": "Iraq",
@@ -1076,7 +1173,8 @@
     "Libraries": 11395,
     "Users": 197971,
     "Volumes": 6592795,
-    "Population": 38654287
+    "Population": 38654287,
+    "PerCapita": 29.5
   },
   {
     "Name": "Ireland",
@@ -1087,7 +1185,8 @@
     "Libraries": 483,
     "Users": 1729303,
     "Volumes": 18171165,
-    "Population": 4749153
+    "Population": 4749153,
+    "PerCapita": 10.2
   },
   {
     "Name": "Isle of Man",
@@ -1098,7 +1197,8 @@
     "Libraries": 10,
     "Users": 0,
     "Volumes": 0,
-    "Population": "N/A"
+    "Population": "N/A",
+    "PerCapita": "N/A"
   },
   {
     "Name": "Israel",
@@ -1109,7 +1209,8 @@
     "Libraries": 3531,
     "Users": 2272648,
     "Volumes": 18801011,
-    "Population": 8323248
+    "Population": 8323248,
+    "PerCapita": 42.4
   },
   {
     "Name": "Italy",
@@ -1120,7 +1221,8 @@
     "Libraries": 12435,
     "Users": 21985390,
     "Volumes": 117895388,
-    "Population": 59797978
+    "Population": 59797978,
+    "PerCapita": 20.8
   },
   {
     "Name": "Jamaica",
@@ -1131,7 +1233,8 @@
     "Libraries": 1155,
     "Users": 3020179,
     "Volumes": 5797919,
-    "Population": 2813285
+    "Population": 2813285,
+    "PerCapita": 41.1
   },
   {
     "Name": "Japan",
@@ -1142,7 +1245,8 @@
     "Libraries": 45823,
     "Users": 60668547,
     "Volumes": 816541654,
-    "Population": 126045211
+    "Population": 126045211,
+    "PerCapita": 36.4
   },
   {
     "Name": "Jordan",
@@ -1153,7 +1257,8 @@
     "Libraries": 5687,
     "Users": 58265,
     "Volumes": 1788395,
-    "Population": 7876703
+    "Population": 7876703,
+    "PerCapita": 72.2
   },
   {
     "Name": "Kazakhstan",
@@ -1164,7 +1269,8 @@
     "Libraries": 10948,
     "Users": 5792593,
     "Volumes": 40256357,
-    "Population": 18064470
+    "Population": 18064470,
+    "PerCapita": 60.6
   },
   {
     "Name": "Kenya",
@@ -1175,7 +1281,8 @@
     "Libraries": 300,
     "Users": 411679,
     "Volumes": 1719898,
-    "Population": 48466928
+    "Population": 48466928,
+    "PerCapita": 0.6
   },
   {
     "Name": "Kiribati",
@@ -1186,7 +1293,8 @@
     "Libraries": 7,
     "Users": 0,
     "Volumes": 57742,
-    "Population": 116405
+    "Population": 116405,
+    "PerCapita": 6
   },
   {
     "Name": "North Korea",
@@ -1197,7 +1305,8 @@
     "Libraries": 19,
     "Users": 0,
     "Volumes": 30693000,
-    "Population": 25405296
+    "Population": 25405296,
+    "PerCapita": 0.1
   },
   {
     "Name": "South Korea",
@@ -1208,7 +1317,8 @@
     "Libraries": 13481,
     "Users": 436939868,
     "Volumes": 246845040,
-    "Population": 50704971
+    "Population": 50704971,
+    "PerCapita": 26.6
   },
   {
     "Name": "Kosovo",
@@ -1219,7 +1329,8 @@
     "Libraries": 9,
     "Users": 0,
     "Volumes": 600000,
-    "Population": "N/A"
+    "Population": "N/A",
+    "PerCapita": "N/A"
   },
   {
     "Name": "Kuwait",
@@ -1230,7 +1341,8 @@
     "Libraries": 132,
     "Users": 1459473,
     "Volumes": 2026206,
-    "Population": 4099932
+    "Population": 4099932,
+    "PerCapita": 3.2
   },
   {
     "Name": "Kyrgyzstan",
@@ -1241,7 +1353,8 @@
     "Libraries": 1867,
     "Users": 955840,
     "Volumes": 11340227,
-    "Population": 6124945
+    "Population": 6124945,
+    "PerCapita": 30.5
   },
   {
     "Name": "Laos",
@@ -1252,7 +1365,8 @@
     "Libraries": 1327,
     "Users": 20170,
     "Volumes": 511000,
-    "Population": 7037521
+    "Population": 7037521,
+    "PerCapita": 18.9
   },
   {
     "Name": "Latvia",
@@ -1263,7 +1377,8 @@
     "Libraries": 1942,
     "Users": 1119786,
     "Volumes": 19269995,
-    "Population": 1944565
+    "Population": 1944565,
+    "PerCapita": 99.9
   },
   {
     "Name": "Lebanon",
@@ -1274,7 +1389,8 @@
     "Libraries": 642,
     "Users": 1028000,
     "Volumes": 1433000,
-    "Population": 6039277
+    "Population": 6039277,
+    "PerCapita": 10.6
   },
   {
     "Name": "Lesotho",
@@ -1285,7 +1401,8 @@
     "Libraries": 224,
     "Users": 3039,
     "Volumes": 133000,
-    "Population": 2185159
+    "Population": 2185159,
+    "PerCapita": 10.3
   },
   {
     "Name": "Liberia",
@@ -1296,7 +1413,8 @@
     "Libraries": 114,
     "Users": 447833,
     "Volumes": 300576,
-    "Population": 4730437
+    "Population": 4730437,
+    "PerCapita": 2.4
   },
   {
     "Name": "Libya",
@@ -1307,7 +1425,8 @@
     "Libraries": 41,
     "Users": 0,
     "Volumes": 512700,
-    "Population": 6408742
+    "Population": 6408742,
+    "PerCapita": 0.6
   },
   {
     "Name": "Liechtenstein",
@@ -1318,7 +1437,8 @@
     "Libraries": 9,
     "Users": 35334,
     "Volumes": 391480,
-    "Population": 38022
+    "Population": 38022,
+    "PerCapita": 23.7
   },
   {
     "Name": "Lithuania",
@@ -1329,7 +1449,8 @@
     "Libraries": 1320,
     "Users": 1588388,
     "Volumes": 50827264,
-    "Population": 2830582
+    "Population": 2830582,
+    "PerCapita": 46.6
   },
   {
     "Name": "Luxembourg",
@@ -1340,7 +1461,8 @@
     "Libraries": 94,
     "Users": 114368,
     "Volumes": 2855658,
-    "Population": 584103
+    "Population": 584103,
+    "PerCapita": 16.1
   },
   {
     "Name": "Macao",
@@ -1351,7 +1473,8 @@
     "Libraries": 4,
     "Users": 38854,
     "Volumes": 767600,
-    "Population": "N/A"
+    "Population": "N/A",
+    "PerCapita": "N/A"
   },
   {
     "Name": "Macedonia",
@@ -1362,7 +1485,8 @@
     "Libraries": 1099,
     "Users": 2375267,
     "Volumes": 8275998,
-    "Population": "N/A"
+    "Population": "N/A",
+    "PerCapita": "N/A"
   },
   {
     "Name": "Madagascar",
@@ -1373,7 +1497,8 @@
     "Libraries": 375,
     "Users": 77264,
     "Volumes": 771420,
-    "Population": 25612972
+    "Population": 25612972,
+    "PerCapita": 1.5
   },
   {
     "Name": "Malawi",
@@ -1384,7 +1509,8 @@
     "Libraries": 97,
     "Users": 71500,
     "Volumes": 1577536,
-    "Population": 18298679
+    "Population": 18298679,
+    "PerCapita": 0.5
   },
   {
     "Name": "Malaysia",
@@ -1395,7 +1521,8 @@
     "Libraries": 10176,
     "Users": 5538415,
     "Volumes": 9382407,
-    "Population": 31164177
+    "Population": 31164177,
+    "PerCapita": 32.7
   },
   {
     "Name": "Maldives",
@@ -1406,7 +1533,8 @@
     "Libraries": 312,
     "Users": 58000,
     "Volumes": 124743,
-    "Population": 375867
+    "Population": 375867,
+    "PerCapita": 83
   },
   {
     "Name": "Mali",
@@ -1417,7 +1545,8 @@
     "Libraries": 506,
     "Users": 1526000,
     "Volumes": 357600,
-    "Population": 18689966
+    "Population": 18689966,
+    "PerCapita": 2.7
   },
   {
     "Name": "Malta",
@@ -1428,7 +1557,8 @@
     "Libraries": 139,
     "Users": 242648,
     "Volumes": 1167190,
-    "Population": 420521
+    "Population": 420521,
+    "PerCapita": 33.1
   },
   {
     "Name": "Marshall Islands",
@@ -1439,7 +1569,8 @@
     "Libraries": 12,
     "Users": 0,
     "Volumes": 85800,
-    "Population": 53132
+    "Population": 53132,
+    "PerCapita": 22.6
   },
   {
     "Name": "Martinique",
@@ -1450,7 +1581,8 @@
     "Libraries": 6,
     "Users": 3447,
     "Volumes": 342363,
-    "Population": "N/A"
+    "Population": "N/A",
+    "PerCapita": "N/A"
   },
   {
     "Name": "Mauritania",
@@ -1461,7 +1593,8 @@
     "Libraries": 38,
     "Users": 0,
     "Volumes": 222500,
-    "Population": 4266448
+    "Population": 4266448,
+    "PerCapita": 0.9
   },
   {
     "Name": "Mauritius",
@@ -1472,7 +1605,8 @@
     "Libraries": 113,
     "Users": 258449,
     "Volumes": 1082432,
-    "Population": 1281353
+    "Population": 1281353,
+    "PerCapita": 8.8
   },
   {
     "Name": "Mayotte",
@@ -1483,7 +1617,8 @@
     "Libraries": 1,
     "Users": 0,
     "Volumes": 0,
-    "Population": "N/A"
+    "Population": "N/A",
+    "PerCapita": "N/A"
   },
   {
     "Name": "Mexico",
@@ -1494,7 +1629,8 @@
     "Libraries": 13308,
     "Users": 57286220,
     "Volumes": 59239796,
-    "Population": 130222815
+    "Population": 130222815,
+    "PerCapita": 10.2
   },
   {
     "Name": "Micronesia",
@@ -1505,7 +1641,8 @@
     "Libraries": 24,
     "Users": 0,
     "Volumes": 64800,
-    "Population": 105566
+    "Population": 105566,
+    "PerCapita": 22.7
   },
   {
     "Name": "Moldova",
@@ -1516,7 +1653,8 @@
     "Libraries": 2899,
     "Users": 126461,
     "Volumes": 23133960,
-    "Population": 4054640
+    "Population": 4054640,
+    "PerCapita": 71.5
   },
   {
     "Name": "Monaco",
@@ -1527,7 +1665,8 @@
     "Libraries": 13,
     "Users": 15200,
     "Volumes": 552000,
-    "Population": 38010
+    "Population": 38010,
+    "PerCapita": 34.2
   },
   {
     "Name": "Mongolia",
@@ -1538,7 +1677,8 @@
     "Libraries": 829,
     "Users": 811000,
     "Volumes": 13274714,
-    "Population": 3051900
+    "Population": 3051900,
+    "PerCapita": 27.2
   },
   {
     "Name": "Montenegro",
@@ -1549,7 +1689,8 @@
     "Libraries": 258,
     "Users": 0,
     "Volumes": 1626172,
-    "Population": 626250
+    "Population": 626250,
+    "PerCapita": 41.2
   },
   {
     "Name": "Montserrat",
@@ -1560,7 +1701,8 @@
     "Libraries": 1,
     "Users": 0,
     "Volumes": 15000,
-    "Population": "N/A"
+    "Population": "N/A",
+    "PerCapita": "N/A"
   },
   {
     "Name": "Morocco",
@@ -1571,7 +1713,8 @@
     "Libraries": 735,
     "Users": 259672,
     "Volumes": 2371328,
-    "Population": 35241418
+    "Population": 35241418,
+    "PerCapita": 2.1
   },
   {
     "Name": "Mozambique",
@@ -1582,7 +1725,8 @@
     "Libraries": 141,
     "Users": 0,
     "Volumes": 261000,
-    "Population": 29537914
+    "Population": 29537914,
+    "PerCapita": 0.5
   },
   {
     "Name": "Myanmar",
@@ -1593,7 +1737,8 @@
     "Libraries": 3745,
     "Users": 11793,
     "Volumes": 14411800,
-    "Population": 54836483
+    "Population": 54836483,
+    "PerCapita": 6.8
   },
   {
     "Name": "Namibia",
@@ -1604,7 +1749,8 @@
     "Libraries": 1097,
     "Users": 179984,
     "Volumes": 714086,
-    "Population": 2568569
+    "Population": 2568569,
+    "PerCapita": 42.7
   },
   {
     "Name": "Nauru",
@@ -1615,7 +1761,8 @@
     "Libraries": 2,
     "Users": 100,
     "Volumes": 0,
-    "Population": 10301
+    "Population": 10301,
+    "PerCapita": 19.4
   },
   {
     "Name": "Nepal",
@@ -1626,7 +1773,8 @@
     "Libraries": 3340,
     "Users": 92058,
     "Volumes": 572235,
-    "Population": 29187037
+    "Population": 29187037,
+    "PerCapita": 11.4
   },
   {
     "Name": "Netherlands",
@@ -1637,7 +1785,8 @@
     "Libraries": 702,
     "Users": 5536473,
     "Volumes": 54515592,
-    "Population": 17032845
+    "Population": 17032845,
+    "PerCapita": 4.1
   },
   {
     "Name": "New Caledonia",
@@ -1648,7 +1797,8 @@
     "Libraries": 12,
     "Users": 700,
     "Volumes": 425580,
-    "Population": "N/A"
+    "Population": "N/A",
+    "PerCapita": "N/A"
   },
   {
     "Name": "New Zealand",
@@ -1659,7 +1809,8 @@
     "Libraries": 2992,
     "Users": 1711299,
     "Volumes": 18282004,
-    "Population": 4604871
+    "Population": 4604871,
+    "PerCapita": 65
   },
   {
     "Name": "Nicaragua",
@@ -1670,7 +1821,8 @@
     "Libraries": 456,
     "Users": 99948,
     "Volumes": 1088560,
-    "Population": 6217796
+    "Population": 6217796,
+    "PerCapita": 7.3
   },
   {
     "Name": "Niger",
@@ -1681,7 +1833,8 @@
     "Libraries": 13,
     "Users": 1392,
     "Volumes": 72800,
-    "Population": 21563607
+    "Population": 21563607,
+    "PerCapita": 0.1
   },
   {
     "Name": "Nigeria",
@@ -1692,7 +1845,8 @@
     "Libraries": 269,
     "Users": 296563,
     "Volumes": 5315770,
-    "Population": 191835936
+    "Population": 191835936,
+    "PerCapita": 0.1
   },
   {
     "Name": "Niue",
@@ -1703,7 +1857,8 @@
     "Libraries": 8,
     "Users": 1426,
     "Volumes": 4000,
-    "Population": "N/A"
+    "Population": "N/A",
+    "PerCapita": "N/A"
   },
   {
     "Name": "Norfolk Island",
@@ -1714,7 +1869,8 @@
     "Libraries": 0,
     "Users": 0,
     "Volumes": 0,
-    "Population": "N/A"
+    "Population": "N/A",
+    "PerCapita": "N/A"
   },
   {
     "Name": "Northern Mariana Islands",
@@ -1725,7 +1881,8 @@
     "Libraries": 12,
     "Users": 0,
     "Volumes": 76087,
-    "Population": "N/A"
+    "Population": "N/A",
+    "PerCapita": "N/A"
   },
   {
     "Name": "Norway",
@@ -1736,7 +1893,8 @@
     "Libraries": 4009,
     "Users": 2069555,
     "Volumes": 31978763,
-    "Population": 5330800
+    "Population": 5330800,
+    "PerCapita": 75.2
   },
   {
     "Name": "Oman",
@@ -1747,7 +1905,8 @@
     "Libraries": 1051,
     "Users": 370085,
     "Volumes": 370474,
-    "Population": 4741305
+    "Population": 4741305,
+    "PerCapita": 22.2
   },
   {
     "Name": "Pakistan",
@@ -1758,7 +1917,8 @@
     "Libraries": 9106,
     "Users": 346400,
     "Volumes": 3933931,
-    "Population": 196744376
+    "Population": 196744376,
+    "PerCapita": 4.6
   },
   {
     "Name": "Palau",
@@ -1769,7 +1929,8 @@
     "Libraries": 25,
     "Users": 0,
     "Volumes": 37300,
-    "Population": 21726
+    "Population": 21726,
+    "PerCapita": 115.1
   },
   {
     "Name": "Palestine",
@@ -1780,7 +1941,8 @@
     "Libraries": 1086,
     "Users": 0,
     "Volumes": 94000,
-    "Population": 4928225
+    "Population": 4928225,
+    "PerCapita": 22
   },
   {
     "Name": "Panama",
@@ -1791,7 +1953,8 @@
     "Libraries": 739,
     "Users": 305229,
     "Volumes": 953400,
-    "Population": 4051284
+    "Population": 4051284,
+    "PerCapita": 18.2
   },
   {
     "Name": "Papua New Guinea",
@@ -1802,7 +1965,8 @@
     "Libraries": 185,
     "Users": 49995,
     "Volumes": 939700,
-    "Population": 7933841
+    "Population": 7933841,
+    "PerCapita": 2.3
   },
   {
     "Name": "Paraguay",
@@ -1813,7 +1977,8 @@
     "Libraries": 285,
     "Users": 501374,
     "Volumes": 597969,
-    "Population": 6811583
+    "Population": 6811583,
+    "PerCapita": 4.2
   },
   {
     "Name": "Peru",
@@ -1824,7 +1989,8 @@
     "Libraries": 2644,
     "Users": 69563,
     "Volumes": 8758062,
-    "Population": 32166473
+    "Population": 32166473,
+    "PerCapita": 8.2
   },
   {
     "Name": "Philippines",
@@ -1835,7 +2001,8 @@
     "Libraries": 1635,
     "Users": 16826049,
     "Volumes": 2902362,
-    "Population": 103796832
+    "Population": 103796832,
+    "PerCapita": 1.6
   },
   {
     "Name": "Pitcairn",
@@ -1846,7 +2013,8 @@
     "Libraries": 0,
     "Users": 0,
     "Volumes": 0,
-    "Population": "N/A"
+    "Population": "N/A",
+    "PerCapita": "N/A"
   },
   {
     "Name": "Poland",
@@ -1857,7 +2025,8 @@
     "Libraries": 24945,
     "Users": 20349277,
     "Volumes": 199329203,
-    "Population": 38563573
+    "Population": 38563573,
+    "PerCapita": 64.7
   },
   {
     "Name": "Portugal",
@@ -1868,7 +2037,8 @@
     "Libraries": 1413,
     "Users": 3172381,
     "Volumes": 17059450,
-    "Population": 10264797
+    "Population": 10264797,
+    "PerCapita": 13.8
   },
   {
     "Name": "Puerto Rico",
@@ -1879,7 +2049,8 @@
     "Libraries": 843,
     "Users": 954414,
     "Volumes": 5218106,
-    "Population": 3369000
+    "Population": 3369000,
+    "PerCapita": 25
   },
   {
     "Name": "Qatar",
@@ -1890,7 +2061,8 @@
     "Libraries": 171,
     "Users": 76565,
     "Volumes": 915400,
-    "Population": 2338085
+    "Population": 2338085,
+    "PerCapita": 7.3
   },
   {
     "Name": "Réunion",
@@ -1901,7 +2073,8 @@
     "Libraries": 10,
     "Users": 3000,
     "Volumes": 249600,
-    "Population": "N/A"
+    "Population": "N/A",
+    "PerCapita": "N/A"
   },
   {
     "Name": "Romania",
@@ -1912,7 +2085,8 @@
     "Libraries": 11787,
     "Users": 5673820,
     "Volumes": 104731714,
-    "Population": 19237513
+    "Population": 19237513,
+    "PerCapita": 61.3
   },
   {
     "Name": "Russia",
@@ -1923,7 +2097,8 @@
     "Libraries": 113867,
     "Users": 60004674,
     "Volumes": 1680886414,
-    "Population": 143375006
+    "Population": 143375006,
+    "PerCapita": 79.4
   },
   {
     "Name": "Rwanda",
@@ -1934,7 +2109,8 @@
     "Libraries": 28,
     "Users": 1841,
     "Volumes": 139278,
-    "Population": 12159586
+    "Population": 12159586,
+    "PerCapita": 0.2
   },
   {
     "Name": "Saint Barthélemy",
@@ -1945,7 +2121,8 @@
     "Libraries": 0,
     "Users": 0,
     "Volumes": 0,
-    "Population": "N/A"
+    "Population": "N/A",
+    "PerCapita": "N/A"
   },
   {
     "Name": "Saint Helena",
@@ -1956,7 +2133,8 @@
     "Libraries": 1,
     "Users": 0,
     "Volumes": 0,
-    "Population": "N/A"
+    "Population": "N/A",
+    "PerCapita": "N/A"
   },
   {
     "Name": "Saint Kitts and Nevis",
@@ -1967,7 +2145,8 @@
     "Libraries": 5,
     "Users": 0,
     "Volumes": 0,
-    "Population": 56780
+    "Population": 56780,
+    "PerCapita": 8.8
   },
   {
     "Name": "Saint Lucia",
@@ -1978,7 +2157,8 @@
     "Libraries": 37,
     "Users": 0,
     "Volumes": 174520,
-    "Population": 187768
+    "Population": 187768,
+    "PerCapita": 19.7
   },
   {
     "Name": "Saint Martin (Fr. Part)",
@@ -1989,7 +2169,8 @@
     "Libraries": 0,
     "Users": 0,
     "Volumes": 0,
-    "Population": "N/A"
+    "Population": "N/A",
+    "PerCapita": "N/A"
   },
   {
     "Name": "Saint Vincent and the Grenadines",
@@ -2000,7 +2181,8 @@
     "Libraries": 26,
     "Users": 53500,
     "Volumes": 323216,
-    "Population": "N/A"
+    "Population": "N/A",
+    "PerCapita": "N/A"
   },
   {
     "Name": "Samoa",
@@ -2011,7 +2193,8 @@
     "Libraries": 41,
     "Users": 0,
     "Volumes": 115500,
-    "Population": 195743
+    "Population": 195743,
+    "PerCapita": 20.9
   },
   {
     "Name": "San Marino",
@@ -2022,7 +2205,8 @@
     "Libraries": 27,
     "Users": 994,
     "Volumes": 331477,
-    "Population": 32104
+    "Population": 32104,
+    "PerCapita": 84.1
   },
   {
     "Name": "São Tomé and Príncipe",
@@ -2033,7 +2217,8 @@
     "Libraries": 5,
     "Users": 0,
     "Volumes": 48000,
-    "Population": "N/A"
+    "Population": "N/A",
+    "PerCapita": "N/A"
   },
   {
     "Name": "Saudi Arabia",
@@ -2044,7 +2229,8 @@
     "Libraries": 5317,
     "Users": 485420,
     "Volumes": 12211843,
-    "Population": 32742664
+    "Population": 32742664,
+    "PerCapita": 16.2
   },
   {
     "Name": "Senegal",
@@ -2055,7 +2241,8 @@
     "Libraries": 66,
     "Users": 11500,
     "Volumes": 292330,
-    "Population": 16054275
+    "Population": 16054275,
+    "PerCapita": 0.4
   },
   {
     "Name": "Serbia",
@@ -2066,7 +2253,8 @@
     "Libraries": 2095,
     "Users": 799517,
     "Volumes": 11235057,
-    "Population": 8776940
+    "Population": 8776940,
+    "PerCapita": 23.9
   },
   {
     "Name": "Seychelles",
@@ -2077,7 +2265,8 @@
     "Libraries": 45,
     "Users": 60642,
     "Volumes": 278000,
-    "Population": 97539
+    "Population": 97539,
+    "PerCapita": 46.1
   },
   {
     "Name": "Sierra Leone",
@@ -2088,7 +2277,8 @@
     "Libraries": 47,
     "Users": 21500,
     "Volumes": 521500,
-    "Population": 6732899
+    "Population": 6732899,
+    "PerCapita": 0.7
   },
   {
     "Name": "Singapore",
@@ -2099,7 +2289,8 @@
     "Libraries": 429,
     "Users": 4937270,
     "Volumes": 18300264,
-    "Population": 5784538
+    "Population": 5784538,
+    "PerCapita": 7.4
   },
   {
     "Name": "Slovakia",
@@ -2110,7 +2301,8 @@
     "Libraries": 7533,
     "Users": 1325610,
     "Volumes": 42332729,
-    "Population": 5432157
+    "Population": 5432157,
+    "PerCapita": 138.7
   },
   {
     "Name": "Slovenia",
@@ -2121,7 +2313,8 @@
     "Libraries": 1182,
     "Users": 970446,
     "Volumes": 25268000,
-    "Population": 2071252
+    "Population": 2071252,
+    "PerCapita": 57.1
   },
   {
     "Name": "Solomon Islands",
@@ -2132,7 +2325,8 @@
     "Libraries": 33,
     "Users": 4499,
     "Volumes": 154000,
-    "Population": 606215
+    "Population": 606215,
+    "PerCapita": 5.4
   },
   {
     "Name": "Somalia",
@@ -2143,7 +2337,8 @@
     "Libraries": 4,
     "Users": 1162,
     "Volumes": 33000,
-    "Population": 11391962
+    "Population": 11391962,
+    "PerCapita": 0
   },
   {
     "Name": "South Africa",
@@ -2154,7 +2349,8 @@
     "Libraries": 11406,
     "Users": 0,
     "Volumes": 38344543,
-    "Population": 55436360
+    "Population": 55436360,
+    "PerCapita": 20.6
   },
   {
     "Name": "Spain",
@@ -2165,7 +2361,8 @@
     "Libraries": 26604,
     "Users": 18268157,
     "Volumes": 123339666,
-    "Population": 46070146
+    "Population": 46070146,
+    "PerCapita": 57.7
   },
   {
     "Name": "Sri Lanka",
@@ -2176,7 +2373,8 @@
     "Libraries": 7241,
     "Users": 4127106,
     "Volumes": 4965638,
-    "Population": 20905335
+    "Population": 20905335,
+    "PerCapita": 34.6
   },
   {
     "Name": "Sudan",
@@ -2187,7 +2385,8 @@
     "Libraries": 4851,
     "Users": 20000,
     "Volumes": 310200,
-    "Population": 42166323
+    "Population": 42166323,
+    "PerCapita": 11.5
   },
   {
     "Name": "Suriname",
@@ -2198,7 +2397,8 @@
     "Libraries": 206,
     "Users": 40170,
     "Volumes": 1899624,
-    "Population": 552112
+    "Population": 552112,
+    "PerCapita": 37.3
   },
   {
     "Name": "Svalbard and Jan Mayen ",
@@ -2209,7 +2409,8 @@
     "Libraries": 0,
     "Users": 0,
     "Volumes": 0,
-    "Population": "N/A"
+    "Population": "N/A",
+    "PerCapita": "N/A"
   },
   {
     "Name": "Swaziland",
@@ -2220,7 +2421,8 @@
     "Libraries": 45,
     "Users": 46000,
     "Volumes": 660029,
-    "Population": 1320356
+    "Population": 1320356,
+    "PerCapita": 3.4
   },
   {
     "Name": "Sweden",
@@ -2231,7 +2433,8 @@
     "Libraries": 6414,
     "Users": 4477469,
     "Volumes": 80805890,
-    "Population": 9920624
+    "Population": 9920624,
+    "PerCapita": 64.7
   },
   {
     "Name": "Switzerland",
@@ -2242,7 +2445,8 @@
     "Libraries": 2598,
     "Users": 2435537,
     "Volumes": 73199699,
-    "Population": 8454083
+    "Population": 8454083,
+    "PerCapita": 30.7
   },
   {
     "Name": "Syria",
@@ -2253,7 +2457,8 @@
     "Libraries": 1760,
     "Users": 666715,
     "Volumes": 1325205,
-    "Population": 18906907
+    "Population": 18906907,
+    "PerCapita": 9.3
   },
   {
     "Name": "Taiwan",
@@ -2264,7 +2469,8 @@
     "Libraries": 2787,
     "Users": 25793870,
     "Volumes": 40555828,
-    "Population": 22256000
+    "Population": 22256000,
+    "PerCapita": 12.5
   },
   {
     "Name": "Tajikistan",
@@ -2275,7 +2481,8 @@
     "Libraries": 2019,
     "Users": 2375,
     "Volumes": 5091174,
-    "Population": 8858115
+    "Population": 8858115,
+    "PerCapita": 22.8
   },
   {
     "Name": "Tanzania",
@@ -2286,7 +2493,8 @@
     "Libraries": 221,
     "Users": 2118545,
     "Volumes": 1523750,
-    "Population": 56877529
+    "Population": 56877529,
+    "PerCapita": 0.4
   },
   {
     "Name": "Thailand",
@@ -2297,7 +2505,8 @@
     "Libraries": 34751,
     "Users": 2000000,
     "Volumes": 5796208,
-    "Population": 68297547
+    "Population": 68297547,
+    "PerCapita": 50.9
   },
   {
     "Name": "Timor-Leste",
@@ -2308,7 +2517,8 @@
     "Libraries": 6,
     "Users": 0,
     "Volumes": 5000,
-    "Population": 1237251
+    "Population": 1237251,
+    "PerCapita": 0.5
   },
   {
     "Name": "Togo",
@@ -2319,7 +2529,8 @@
     "Libraries": 52,
     "Users": 24198,
     "Volumes": 130945,
-    "Population": 7691915
+    "Population": 7691915,
+    "PerCapita": 0.7
   },
   {
     "Name": "Tokelau",
@@ -2330,7 +2541,8 @@
     "Libraries": 1,
     "Users": 0,
     "Volumes": 0,
-    "Population": "N/A"
+    "Population": "N/A",
+    "PerCapita": "N/A"
   },
   {
     "Name": "Tonga",
@@ -2341,7 +2553,8 @@
     "Libraries": 18,
     "Users": 3288,
     "Volumes": 40500,
-    "Population": 107797
+    "Population": 107797,
+    "PerCapita": 16.7
   },
   {
     "Name": "Trinidad and Tobago",
@@ -2352,7 +2565,8 @@
     "Libraries": 191,
     "Users": 0,
     "Volumes": 1545829,
-    "Population": 1369157
+    "Population": 1369157,
+    "PerCapita": 14
   },
   {
     "Name": "Tunisia",
@@ -2363,7 +2577,8 @@
     "Libraries": 947,
     "Users": 92955,
     "Volumes": 6840300,
-    "Population": 11494760
+    "Population": 11494760,
+    "PerCapita": 8.2
   },
   {
     "Name": "Turkey",
@@ -2374,7 +2589,8 @@
     "Libraries": 19631,
     "Users": 13139534,
     "Volumes": 154793141,
-    "Population": 80417526
+    "Population": 80417526,
+    "PerCapita": 24.4
   },
   {
     "Name": "Turkmenistan",
@@ -2385,7 +2601,8 @@
     "Libraries": 12,
     "Users": 0,
     "Volumes": 8741930,
-    "Population": 5502586
+    "Population": 5502586,
+    "PerCapita": 0.2
   },
   {
     "Name": "Turks and Caicos Islands",
@@ -2396,7 +2613,8 @@
     "Libraries": 2,
     "Users": 0,
     "Volumes": 13000,
-    "Population": "N/A"
+    "Population": "N/A",
+    "PerCapita": "N/A"
   },
   {
     "Name": "Tuvalu",
@@ -2407,7 +2625,8 @@
     "Libraries": 5,
     "Users": 0,
     "Volumes": 20100,
-    "Population": 9975
+    "Population": 9975,
+    "PerCapita": 50.1
   },
   {
     "Name": "Uganda",
@@ -2418,7 +2637,8 @@
     "Libraries": 56,
     "Users": 493857,
     "Volumes": 6746612,
-    "Population": 41652938
+    "Population": 41652938,
+    "PerCapita": 0.1
   },
   {
     "Name": "Ukraine",
@@ -2429,7 +2649,8 @@
     "Libraries": 39177,
     "Users": 18141236,
     "Volumes": 388804767,
-    "Population": 44405055
+    "Population": 44405055,
+    "PerCapita": 88.2
   },
   {
     "Name": "United Arab Emirates",
@@ -2440,7 +2661,8 @@
     "Libraries": 1364,
     "Users": 35000,
     "Volumes": 2373845,
-    "Population": 9397599
+    "Population": 9397599,
+    "PerCapita": 14.5
   },
   {
     "Name": "United Kingdom",
@@ -2451,7 +2673,8 @@
     "Libraries": 8447,
     "Users": 38432469,
     "Volumes": 273848614,
-    "Population": 65623400
+    "Population": 65623400,
+    "PerCapita": 12.9
   },
   {
     "Name": "United States of America",
@@ -2462,7 +2685,8 @@
     "Libraries": 101349,
     "Users": 231262659,
     "Volumes": 1480912273,
-    "Population": 326474013
+    "Population": 326474013,
+    "PerCapita": 31
   },
   {
     "Name": "Uruguay",
@@ -2473,7 +2697,8 @@
     "Libraries": 373,
     "Users": 156384,
     "Volumes": 3867366,
-    "Population": 3456877
+    "Population": 3456877,
+    "PerCapita": 10.8
   },
   {
     "Name": "Uzbekistan",
@@ -2484,7 +2709,8 @@
     "Libraries": 8971,
     "Users": 263000,
     "Volumes": 55775029,
-    "Population": 30690914
+    "Population": 30690914,
+    "PerCapita": 29.2
   },
   {
     "Name": "Vanuatu",
@@ -2495,7 +2721,8 @@
     "Libraries": 66,
     "Users": 200,
     "Volumes": 22400,
-    "Population": 276331
+    "Population": 276331,
+    "PerCapita": 23.9
   },
   {
     "Name": "Venezuela",
@@ -2506,7 +2733,8 @@
     "Libraries": 924,
     "Users": 1804801,
     "Volumes": 10132596,
-    "Population": 31925705
+    "Population": 31925705,
+    "PerCapita": 2.9
   },
   {
     "Name": "Vietnam",
@@ -2517,7 +2745,8 @@
     "Libraries": 23962,
     "Users": 0,
     "Volumes": 17149050,
-    "Population": 95414640
+    "Population": 95414640,
+    "PerCapita": 25.1
   },
   {
     "Name": "Virgin Islands, British",
@@ -2528,7 +2757,8 @@
     "Libraries": 7,
     "Users": 8815,
     "Volumes": 36000,
-    "Population": "N/A"
+    "Population": "N/A",
+    "PerCapita": "N/A"
   },
   {
     "Name": "Virgin Islands, U.S.",
@@ -2539,7 +2769,8 @@
     "Libraries": 45,
     "Users": 0,
     "Volumes": 343000,
-    "Population": "N/A"
+    "Population": "N/A",
+    "PerCapita": "N/A"
   },
   {
     "Name": "Wallis and Futuna ",
@@ -2550,7 +2781,8 @@
     "Libraries": 0,
     "Users": 0,
     "Volumes": 0,
-    "Population": "N/A"
+    "Population": "N/A",
+    "PerCapita": "N/A"
   },
   {
     "Name": "Western Sahara",
@@ -2561,7 +2793,8 @@
     "Libraries": 0,
     "Users": 0,
     "Volumes": 0,
-    "Population": "N/A"
+    "Population": "N/A",
+    "PerCapita": "N/A"
   },
   {
     "Name": "Yemen",
@@ -2572,7 +2805,8 @@
     "Libraries": 12,
     "Users": 0,
     "Volumes": 67500,
-    "Population": 28119546
+    "Population": 28119546,
+    "PerCapita": 0
   },
   {
     "Name": "Zambia",
@@ -2583,7 +2817,8 @@
     "Libraries": 247,
     "Users": 850,
     "Volumes": 1524783,
-    "Population": 17237931
+    "Population": 17237931,
+    "PerCapita": 1.4
   },
   {
     "Name": "Zimbabwe",
@@ -2594,6 +2829,7 @@
     "Libraries": 174,
     "Users": 195525,
     "Volumes": 1218875,
-    "Population": 16337760
+    "Population": 16337760,
+    "PerCapita": 1.1
   }
 ]

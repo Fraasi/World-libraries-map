@@ -74,6 +74,14 @@ cleaned.forEach(el => {
 	counted.push(obj)
 })
 
+const minMax = []
+counted.forEach(el => {
+	el.PerCapita = (el.Libraries / el.Population * 100000) ? Number((el.Libraries / el.Population * 100000).toFixed(1)) : 'N/A'
+	if (!isNaN(el.PerCapita)) minMax.push(el.PerCapita)
+})
+console.log('minMax: ', Math.min(...minMax), '-', Math.max(...minMax))
+
+
 
 fs.writeFile('library-data-cleaned.js', '/* eslint-disable */\n export default ' + JSON.stringify(counted, null, 2), (err) => {
 	if (err) throw err;
