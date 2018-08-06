@@ -1,9 +1,16 @@
 import L from 'leaflet'
 import libraryData from './assets/library-data-cleaned'
 import countries from './assets/countries-geojson'
-// console.log('library', libraryData, 'countries', countries)
 
-const map = L.map('map').setView([51.505, -0.09], 2)
+const bounds = new L.LatLngBounds(new L.LatLng(90, -180), new L.LatLng(-75, 210))
+const map = L.map('map', {
+	center: L.latLng(50, 0),
+	zoom: 2,
+	minZoom: 1,
+	maxZoom: 5,
+	maxBounds: bounds,
+	maxBoundsViscosity: 1.0,
+})
 
 map.createPane('labels')
 map.getPane('labels').style.zIndex = 650
