@@ -98,7 +98,7 @@ info.update = function (props) {
 			Volumes: ${Volumes === 0 ? 'N/A' : Volumes.toLocaleString()}</br>
 			Expenditures: ${Expenditures === 0 ? 'N/A' : '$' + Expenditures.toLocaleString()}</br>
 			Publishers: ${Publishers === 0 ? 'N/A' : Publishers.toLocaleString()}</br>
-			Museums: ${Museums === 0 ? 'N/A' : Museums.toLocaleString()}</br> 
+			Museums: ${Museums === 0 ? 'N/A' : Museums.toLocaleString()}</br>
 			Population: ${Population.toLocaleString()}</br>
 			Libraries per 100 000: ${PerCapita}`
 		}
@@ -107,7 +107,7 @@ info.update = function (props) {
 
 info.addTo(map)
 
-const legend = L.control({ position: 'bottomright' })
+const legend = L.control({ position: 'bottomleft' })
 
 legend.onAdd = function () {
 	const div = L.DomUtil.create('div', 'info legend')
