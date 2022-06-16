@@ -2,22 +2,22 @@
   "name": "libraries",
   "version": "0.0.1",
   "description": "World library info in a leaflet map",
-  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/Fraasi/World-libraries-map.git"
   },
+  "type": "module",
   "dependencies": {
     "leaflet": "^1.8.0"
   },
+  "devDependencies": {
+    "vite": "^2.9.12"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "parcel src/index.html --open",
-    "build": "parcel build src/index.html --public-url ./ --target browser --no-source-maps --out-dir docs"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "author": "Fraasi <fraasi.gh@gmail.com> (https://github.com/fraasi/)",
-  "license": "ISC",
-  "devDependencies": {
-    "parcel": "^2.6.0"
-  }
+  "license": "ISC"
 }

@@ -1,60 +1,64 @@
 @import "../node_modules/leaflet/dist/leaflet.css";
 
 body {
-    background: #a24a64;
+  background: #a24a64;
 }
+
 #map {
-	width: 90vw;
-	height: 70vh;
-    margin: 0 auto;
-    border-radius: 5px;
-    border: 2px solid black;
-    box-shadow: 0px 0px 10px 1px;
+  width: 90vw;
+  height: 70vh;
+  margin: 0 auto;
+  border-radius: 5px;
+  border: 2px solid black;
+  box-shadow: 0px 0px 10px 1px;
 }
 
 .info {
-    padding: 6px 8px;
-    font: 14px/16px Arial, Helvetica, sans-serif;
-    background: white;
-    background: rgba(255,255,255,0.8);
-    box-shadow: 0 0 15px rgba(0,0,0,0.2);
-    border-radius: 5px;
+  padding: 6px 8px;
+  font: 14px/16px Arial, Helvetica, sans-serif;
+  background: white;
+  background: rgba(255, 255, 255, 0.8);
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
 }
+
 .info h4 {
-    margin: 0 0 5px;
-    color: #777;
+  margin: 0 0 5px;
+  color: #777;
 }
 
 .legend {
-    line-height: 18px;
-    color: #555;
+  line-height: 18px;
+  color: #555;
 }
+
 .legend i {
-    width: 18px;
-    height: 18px;
-    float: left;
-    margin-right: 8px;
-    opacity: 0.7;
+  width: 18px;
+  height: 18px;
+  float: left;
+  margin-right: 8px;
+  opacity: 0.7;
 }
 
 .header {
-	width: 90vw;
-    margin: 10px auto;
-    border: 1px dashed black;
-    text-align: center;
-    padding: 10px;
-    background-color: #fbc780;
-    box-shadow: 0px 0px 10px 1px;
-    font: 14px/16px Arial, Helvetica, sans-serif;
+  width: 90vw;
+  margin: 10px auto;
+  border: 1px dashed black;
+  text-align: center;
+  padding: 10px;
+  background-color: #fbc780;
+  box-shadow: 0px 0px 10px 1px;
+  font: 14px/16px Arial, Helvetica, sans-serif;
 }
 
-.header h2, .header h4 {
-    margin: 5px;
+.header h2,
+.header h4 {
+  margin: 5px;
 }
 
 .lib {
-    font-weight: bold;
-    text-align: center;
-    display: inline-block;
-    width: 100%;
+  font-weight: bold;
+  text-align: center;
+  display: inline-block;
+  width: 100%;
 }
