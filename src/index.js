@@ -12,6 +12,9 @@ const map = L.map('map', {
 	maxBoundsViscosity: 1.0,
 })
 
+/* remove protestware flag */
+map.attributionControl.setPrefix('<a href="https://leafletjs.com" title="A JavaScript library for interactive maps">Leaflet</a>')
+
 map.createPane('labels')
 map.getPane('labels').style.zIndex = 650
 map.getPane('labels').style.pointerEvents = 'none'
